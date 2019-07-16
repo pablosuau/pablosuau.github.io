@@ -24,7 +24,8 @@
 		{"name":"18", "color": 2},
 		{"name":"28", "color": 3},
 		{"name":"24", "color": 2},
-		{"name":"25", "color": 2}
+		{"name":"25", "color": 2},
+		{"name":"82", "color": 2}
 	],
 	"links":[
 		{"source":0, "target":1},
