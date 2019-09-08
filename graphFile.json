@@ -27,8 +27,10 @@
 		{"name":"25", "color": 2},
 		{"name":"82", "color": 2},
 		{"name":"43", "color": 2},
-		{"name":"26", "color": 2},
-		{"name":"23", "color": 1}
+		{"name":"26", "color": 1},
+		{"name":"23", "color": 1},
+		{"name":"57", "color": 1},
+		{"name":"58", "color": 2}
 	],
 	"links":[
 		{"source":0, "target":1},
@@ -55,6 +57,8 @@
 		{"source":21, "target":10},
 		{"source":21, "target":26},
 		{"source":21, "target":27},
-		{"source":21, "target":28}
+		{"source":21, "target":28},
+		{"source":27, "target":13},
+		{"source":29, "target":30}
 	]
 }
