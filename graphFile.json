@@ -13,7 +13,7 @@
 		{"name":"14", "color": 1},
 		{"name":"19", "color": 2},
 		{"name":"21", "color": 1},
-		{"name":"22", "color": 2},
+		{"name":"22", "color": 1},
 		{"name":"93", "color": 1},
 		{"name":"70", "color": 1},
 		{"name":"65", "color": 1},
@@ -30,7 +30,11 @@
 		{"name":"26", "color": 1},
 		{"name":"23", "color": 1},
 		{"name":"57", "color": 1},
-		{"name":"58", "color": 2}
+		{"name":"58", "color": 1},
+		{"name":"72", "color": 2},
+		{"name":"35", "color": 3},
+		{"name":"36", "color": 3},
+		{"name":"31", "color": 2}
 	],
 	"links":[
 		{"source":0, "target":1},
@@ -59,6 +63,9 @@
 		{"source":21, "target":27},
 		{"source":21, "target":28},
 		{"source":27, "target":13},
-		{"source":29, "target":30}
+		{"source":29, "target":30},
+		{"source":13, "target":32},
+		{"source":13, "target":33},
+		{"source":13, "target":34}
 	]
 }
